@@ -2,7 +2,7 @@
 
 This web application is engineered to manage academic courses effectively, utilizing React, TypeScript, and Supabase. The system offers tailored interfaces for administrators, instructors, and students to manage courses, enrollments, and other academic activities seamlessly.
 
-## Hosted Side (Still In Development): https://coursemanagment.netlify.app/login
+## Hosted Side (Still In Development): https://coursemanagment.netlify.app
 
 ## Features
 
