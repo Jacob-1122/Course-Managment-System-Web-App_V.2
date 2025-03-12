@@ -200,3 +200,10 @@ CREATE TABLE logs (
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- React Team for the amazing framework
+- Supabase Team for the backend infrastructure
+- TailwindCSS Team for the styling framework
+- All contributors and users of this system
